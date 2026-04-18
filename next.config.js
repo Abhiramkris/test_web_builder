@@ -1,0 +1,18 @@
+
+module.exports = {
+  allowedDevOrigins: ["35.185.199.124","http://35.185.199.124","localhost:3000","http://localhost:3000","35.185.199.124","localhost","*.ngrok-free.dev","*.ngrok.io","35.185.199.124:3000","35.185.199.124:3001","35.185.199.124:3002","35.185.199.124:3003","35.185.199.124:3004","35.185.199.124:3005","35.185.199.124:3006","35.185.199.124:3007","35.185.199.124:3008","35.185.199.124:3009","35.185.199.124:3010","localhost:3000","localhost:3001","localhost:3002","localhost:3003","localhost:3004","localhost:3005","localhost:3006","localhost:3007","localhost:3008","localhost:3009","localhost:3010","http://35.185.199.124:3000","http://35.185.199.124:3001","http://35.185.199.124:3002","http://35.185.199.124:3003","http://35.185.199.124:3004","http://35.185.199.124:3005","http://35.185.199.124:3006","http://35.185.199.124:3007","http://35.185.199.124:3008","http://35.185.199.124:3009","http://35.185.199.124:3010","http://localhost:3000","http://localhost:3001","http://localhost:3002","http://localhost:3003","http://localhost:3004","http://localhost:3005","http://localhost:3006","http://localhost:3007","http://localhost:3008","http://localhost:3009","http://localhost:3010"],
+  
+  
+  typescript: { ignoreBuildErrors: true },
+  eslint: { ignoreDuringBuilds: true },
+  experimental: {
+    turbo: {
+      rules: {
+         '*.svg': {
+            loaders: ['@svgr/webpack'],
+            as: 'js',
+         },
+      },
+    },
+  },
+};

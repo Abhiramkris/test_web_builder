@@ -1,0 +1,218 @@
+{
+  "styles": {
+    "accent_color": "#3b82f6",
+    "button_style": "glass",
+    "button_radius": "md",
+    "primary_color": "#0f172a",
+    "button_padding": "standard",
+    "font_pairing_id": "architectural",
+    "font_family_body": "Syne",
+    "font_family_heading": "Syne",
+    "text_alignment": "left",
+    "font_size_h1": "48",
+    "font_size_h2": "32",
+    "font_size_body": "16",
+    "button_shadow": "none",
+    "button_animation": "scale",
+    "show_secondary_cta": true
+  },
+  "content": {
+    "brand_name": "Chicago Greens",
+    "description": "Chicago-crafted holistic solutions delivering premium quality and consistent experiences for elevated well-being.",
+    "email": "hello@ayurveda.com",
+    "phone": "9870067889",
+    "privacy_intro": "We value your privacy and professional data integrity.",
+    "terms_intro": "Professional standards and service agreements apply to all digital breakthroughs.",
+    "h1": "Premium Chicago Medicinal Greens, Elevated Wellness",
+    "stats": [
+      {
+        "label": "Quality Assurance",
+        "value": "99%"
+      },
+      {
+        "label": "Industry Experience",
+        "value": "10Y+"
+      },
+      {
+        "label": "Client Satisfaction",
+        "value": "98%"
+      }
+    ],
+    "h1_line1": "Elevating Wellness Through",
+    "h1_accent": "Premium Cannabis Solutions",
+    "image_url": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "video_url": "",
+    "badge_text": "Trusted by Chicago's Wellness Community",
+    "hero_image": "",
+    "cta_primary": "Explore Products",
+    "center_image": "https://plus.unsplash.com/premium_photo-1675127366598-f6c344e5233b?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cta_secondary": "Learn More",
+    "NAV_INDUSTRIAL": {
+      "brand_name": "Chicago MedGreens",
+      "cta_primary": "Get Started"
+    },
+    "stats_highlight": {
+      "label": "Patients Served",
+      "value": "10K+",
+      "description": "Compassionate care since 2015"
+    },
+    "appointment_type": "Custom Form",
+    "FOOTER_INDUSTRIAL": {
+      "terms_url": "#",
+      "brand_name": "Testing client 1",
+      "github_url": "",
+      "twitter_url": "",
+      "linkedin_url": "",
+      "privacy_policy_url": "#"
+    },
+    "HERO_FULL_IMAGE_STATS": {
+      "h1": "Premium Chicago Medicinal Solutions",
+      "stats": [
+        {
+          "label": "Quality Assurance",
+          "value": "99%"
+        },
+        {
+          "label": "Clinical Expertise",
+          "value": "10Y+"
+        },
+        {
+          "label": "Client Satisfaction",
+          "value": "98%"
+        }
+      ],
+      "image_url": "https://images.unsplash.com/photo-1602276506752-cec706667215?ixlib=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3840&q=80",
+      "cta_primary": "Explore Products",
+      "description": "Delivering curated medicinal excellence from Chicago, engineered for optimal well-being and precision care.",
+      "cta_secondary": "Learn More"
+    },
+    "SERVICES_CORE_FEATURES": {
+      "h2": "Advanced Therapeutic Systems",
+      "features": [
+        {
+          "icon": "BarChart",
+          "title": "Bioactive Cultivation",
+          "description": "GMP-certified growth protocols for therapeutic consistency"
+        },
+        {
+          "icon": "Shield",
+          "title": "Lab Verification",
+          "description": "Third-party tested purity and potency standards"
+        },
+        {
+          "icon": "Smartphone",
+          "title": "Discreet Delivery",
+          "description": "Secure logistics with real-time tracking"
+        },
+        {
+          "icon": "Edit",
+          "title": "Clinical Guidance",
+          "description": "Personalized therapeutic regimens"
+        }
+      ],
+      "description": "Integrated solutions blending botanical science with clinical-grade precision.",
+      "center_image": "https://images.unsplash.com/photo-1588614959060-4d144f28a207?ixlib=rb-4.2.1&auto=format&fit=crop&w=1284&q=80"
+    }
+  },
+  "settings": {
+    "HERO_SPLIT": {
+      "animation": "slide-up",
+      "hierarchy": "h2"
+    },
+    "FEATURES_GRID": {
+      "animation": "slide-up",
+      "cta_count": 1,
+      "hierarchy": "h3",
+      "card_style": "standard",
+      "bg_gradient": "linear-gradient(to right, #000000, #434343)",
+      "layout_variant": "split-reversed"
+    },
+    "FOOTER_SOCIAL": {
+      "bg_color": "#d7dfe0",
+      "bg_gradient": "",
+      "layout_variant": "split-reversed"
+    },
+    "CONTACT_SIMPLE": {
+      "animation": "slide-up",
+      "hierarchy": "h2",
+      "bg_gradient": "linear-gradient(to right, #000000, #434343)",
+      "layout_variant": "contained"
+    },
+    "NAV_INDUSTRIAL": {
+      "animation": "fade"
+    },
+    "NAV_SOLID_WHITE": {
+      "hierarchy": "h2",
+      "bg_gradient": "linear-gradient(to right, #2193b0, #6dd5ed)",
+      "layout_variant": "split-reversed"
+    },
+    "FOOTER_INDUSTRIAL": {},
+    "HERO_FLOATING_STATS": {
+      "animation": "slide-up",
+      "hero_text_size": "text-5xl md:text-6xl",
+      "show_top_badge": true,
+      "text_animation": "slide-up",
+      "stats_card_style": "light",
+      "hero_text_alignment": "text-left"
+    },
+    "HERO_CINEMATIC_VIDEO": {
+      "motion_speed": 0,
+      "blur_intensity": 0,
+      "hero_text_size": "text-5xl md:text-6xl",
+      "text_animation": "none",
+      "overlay_opacity": 22,
+      "hero_text_margin": "mb-0",
+      "container_animation": "none",
+      "hero_text_alignment": "text-left",
+      "show_scroll_indicator": false
+    },
+    "HERO_FULL_IMAGE_STATS": {
+      "0": {
+        "id": "container_animation",
+        "value": "scale-up"
+      },
+      "1": {
+        "id": "text_animation",
+        "value": "spring-up"
+      },
+      "2": {
+        "id": "hero_text_size",
+        "value": "text-6xl md:text-8xl"
+      },
+      "3": {
+        "id": "hero_text_margin",
+        "value": "mb-8"
+      },
+      "4": {
+        "id": "hero_text_alignment",
+        "value": "text-center"
+      },
+      "5": {
+        "id": "overlay_opacity",
+        "value": 60
+      },
+      "6": {
+        "id": "show_stats",
+        "value": true
+      },
+      "7": {
+        "id": "spacing_top",
+        "value": 80
+      },
+      "show_stats": true,
+      "spacing_top": 160,
+      "hero_text_size": "text-5xl md:text-6xl",
+      "text_animation": "fade",
+      "overlay_opacity": 15,
+      "hero_text_margin": "mb-8",
+      "container_animation": "fade-up",
+      "hero_text_alignment": "text-left"
+    },
+    "SERVICES_CORE_FEATURES": {}
+  },
+  "pages": [
+    "Home",
+    "About",
+    "Projects"
+  ]
+}
