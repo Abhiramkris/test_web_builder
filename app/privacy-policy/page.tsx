@@ -1,10 +1,10 @@
 import React from 'react';
-import config from '../data/config.json';
-import NAVINDUSTRIAL from '../components/nav-industrial';
+import config from '../../data/config.json';
+import NAVINDUSTRIAL from '../../components/nav-industrial';
 
 
 export default function PrivacyPolicyPage() {
-  const companyName = config.content.brand_name || "Testing client 1";
+  const companyName = config.content.brand_name || "Testing 2";
   const email = config.content.email || "hello@company.com";
   const phone = config.content.phone || "";
   const domain = config.content.domain || ("www." + companyName.toLowerCase().replace(/\s+/g, '') + ".com");
